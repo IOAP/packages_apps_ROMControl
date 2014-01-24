@@ -31,8 +31,8 @@
     <string name="aokp_irc_summary">Our public repo. Check it for latest changes.</string>
     <string name="about_aokp">About Infamous</string>
     <string name="about_aokp_summary">@null</string>
-    <string name="donate_iokp">http://goo.gl/V01Vqx</string>
-    <string name="github_iokp">https://github.com/IOAP</string>
+    <string name="donate_iokp">http://goo.gl/Q4HjYv</string>
+    <string name="github_iokp">https://github.com/IOKP-kitkat</string>
     <string name="github_midnightRider67">https://github.com/MidnightRider67</string>
     <string name="github_djmatt604">https://github.com/djmatt604</string>
     <string name="github_octane70">https://github.com/Octane70</string>
@@ -41,7 +41,7 @@
     <string name="github_mrimp">https://github.com/mrimp</string>
     <string name="github_nolinuxnoparty">https://github.com/nolinuxnoparty</string>
     <string name="url_aokp">http://www.infamousdevelopment.com/forum</string>
-    <string name="url_aokp_gerrit">http://goo.gl/AH7Uxf</string>
+    <string name="url_aokp_gerrit">http://goo.gl/NKBrJS</string>
     <string name="url_aokp_irc">https://github.com/IOKP-kitkat</string>
     <string name="android_open_kang_project">Links to our stuff</string>
     <string name="kanglings">The Infamous</string>
